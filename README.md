@@ -1,6 +1,8 @@
 # stock-simulator
 Author: Vladislav Slugin (vsdev.)
+
 Date: 11.04.2024
+
 Version: 1.1
 
 # Description:
